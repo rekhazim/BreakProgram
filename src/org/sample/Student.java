@@ -8,7 +8,7 @@ public class Student {
 				break;
 			}
 		}
-		System.out.println("java selenium");
+		System.out.println("Cucumber TestNg");
 	}
 	}
 
