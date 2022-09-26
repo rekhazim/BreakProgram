@@ -5,7 +5,7 @@ public class Student {
 		
 		for(int i=0; i<10; i++) {
 			if(i==5);{
-				continue;
+				break;
 			}
 		}
 		System.out.println("java selenium");
